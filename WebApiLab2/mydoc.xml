@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WebApiLab2</name>
+    </assembly>
+    <members>
+        <member name="M:WebApiLab2.Controllers.DepartmentsController.GetDepartments">
+            <summary>
+            Get all Departments
+            </summary>
+        </member>
+        <member name="M:WebApiLab2.Controllers.StudentsController.GetStudents">
+            <summary>
+            Get all students
+            </summary>
+            <returns>List of Students</returns>
+        </member>
+    </members>
+</doc>
